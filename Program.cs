@@ -61,7 +61,7 @@ namespace CalculadoraConSwitch
             }
            
             // Mostramos el resultado
-           Console.WriteLine("El resultado es: { 0}", resultado);
+           Console.WriteLine($"El resultado es: {resultado}");
         }
     }
 }
